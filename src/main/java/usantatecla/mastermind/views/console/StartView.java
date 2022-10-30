@@ -12,6 +12,5 @@ public class StartView extends SubView {
         Message.TITLE.writeln();
         new SecretCombinationView().writeln();
     }
-	 
 }
 

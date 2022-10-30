@@ -15,7 +15,4 @@ class GameView {
             new ProposedCombinationView(this.game.getProposedCombination(i)).write();
         }
     }
-
-
-    
 }
